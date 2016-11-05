@@ -1,16 +1,15 @@
 <?php include 'connect.php'; ?>
 
 <!DOCTYPE html>
-<html lang="">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width">
     <title>Backend</title>
 </head>
 
 <body>
-
     <header>
         <!-- /Menu-->
         <ul>
@@ -20,8 +19,9 @@
     </header>
 
     <main>
-
+      <form class="" action="index.html" method="post">
+        
+      </form>
     </main>
 </body>
-
 </html>
