@@ -1,3 +1,3 @@
 FROM php
-ADD app /app
-EXPOSE 8000
+ADD php /php
+EXPOSE 8010
